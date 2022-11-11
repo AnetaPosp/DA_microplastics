@@ -1,0 +1,123 @@
+microplasticID,microplastic_name
+0,none
+1,polyethylene
+2,p polyethylene
+3,polyethylene [+/- ci 77891
+4,oxidized polyethylene
+5,polyethylene wax
+6,polymethyl methacrylate
+7,methyl methacrylate crosspolymer
+8,ptfe
+9,polyurethane crosspolymer-2
+10,nylon-6ti/dimethicone copolymer
+11,nylon-611/dimethicone copolymer
+12,nylon-6
+13,nylon-12
+14,styrene/acrylates/ammonium methacrylate copolymer
+15,styrene/acrylates/ ammonium methacrylate copolymer
+16,styrene/acrylates copolymer
+17,styrene/acrylates
+18,styrene / acrylates copolymer
+19,styrene/acrylate copolymer
+20,styrene / acrylates / ammonium methacrylate copolymer
+21,styrene/arcylates copolymer
+22,polyethylene terephthalate
+23,polyethylene terephithalate
+24,polybutylene terephthalate
+25,terephthalate
+26,acrylates/vinyl neodecanoate crosspolymer
+27,sodium acrylates copolymer
+28,acrylates/vinyl isodecanoate crosspolymer
+29,acrylates copolymer
+30,sodium acrylate/sodium acryloyldimethyl taurate copolymer
+31,acrylates/c10-30/alkyl acrylate crosspolymer
+32,polyacrylate crosspolymer-6
+33,acrylates/c10-30 alkyl acrylate crosspolymer
+34,hydroxyethyl acrylate/sodium acryloyldimethyl taurate copolymer
+35,pvm/ma copolymer
+36,glyceryl acrylate/acrylic acid copolymer
+37,polyacrylate-13
+38,methyl methacrylate/glycol dimethacrylate crosspolymer
+39,sodium polyacrylate
+40,glyceryl polymethacrylate
+41,acrylonitrile/methyl methacrylate/vinylidene chloride copolymer
+42,ammonium polyacryloyldimethyl taurate
+43,acrylamide/sodium acryloyldimethyltaurate copolymer
+44,acrylonitrile/methyl methacrylate/vinylidene chloride
+45,copolymer
+46,ammonium acryloyldimethyl-taurate/steareth-25 methacrylate crosspolymer
+47,ammonium acryloyldimethyl - taurate/steareth-25 methacrylate crosspolymer
+48,acrylamide / sodium acryloyldimethyltaurate copolymer
+49,ammonium polyacryldimethyltauramide/ammonium polyacryloyldimethyl taurate
+50,dimethicone/polyglycerin-3 crosspolymer
+51,sodim acrylates copolymer
+52,ammonium polyacryldimethyltauramide / ammonium polyacryloyldimethyl taurate
+53,acrylonitrile / methylmethacrylate / vinylidene chloride copolymer
+54,polyacrylate-21
+55,acrylates/dimethylaminoethyl methacrylate copolymer
+57,sodium acryloyldimethyltaurate/vp crosspolymer
+58,acrylates/beheneth-25 methacrylate copolymer
+59,acrylates crosspolymer-4
+60,potassium acrylates copolymer
+61,acrylic acid/acrylamidomethyl propane sulfonic acid copolymer
+62,acrylamide/ammonium acrylate copolymer
+63,octylacrylamide/acrylates/butylaminoethyl methacrylate copolymer
+64,sodium polymetnacrylate
+65,rosin acrylate
+66,sodium polymethacrylate
+67,acrylates/octylacrylamide copolymer
+68,acrylates/dimethicone copolymer
+69,lauryl methacrylate/glycol dimethacrylate crosspolymer
+70,ethylene/acrylic acid copolymer
+71,sodium polemethacrylate
+72,ethylene/methacrylate copolymer
+73,acrylic acid/isobutyl acrylate/isobornyl acrylate copolymer
+74,acrylonitrile/methyl methacrylte/vinylidene chloride copolymer
+75,acrylonitrile/methyl methacrylate/vinylidene chloride copolymer aluminum hydroxide
+76,acrylates/c12-22 alkyl methacrylate copolymer
+77,acrylamidopropyltrimonium chloride/acrylamide copolymer
+78,ammonium polyacryldimethyl tauramide/ammonium polyacryloyldimethyl taurate
+79,sodium polynaphthalenesulfonate
+80,carbober
+81,ammonium acryloydimethyltaurate/vp copolymer
+82,ammonium polyacryldimethyltauramide/ammonium
+83,sodium acrylates/c10-30 alkyl acrylate
+84,polyacrylate crosspolymer-9
+85,acrylates/t-butylacrylamide copolymer
+86,sodium acrylate/acryloyldimethyltaurate/dimethylacrylamide crosspolymer
+87,dimethylacrylamide/ethyltrimonium chloride methacrylate copolymer
+88,vinyl caprolactam/vp/dimethylaminoethyl methacrylate copolymer
+89,vp/dmapa acrylates copolymer
+90,acrylates/hydroxyesters acrylates copolymer
+91,acrylates/steareth-20 methacrylate crosspolymer
+92,acrylamidopropyltrimonium chloride/acrylates copolymer
+93,ethylhexyl acrylate/methyl methacrylate copolymer
+94,acrylates/steareth-20 itaconate copolymer
+95,acrylamidopropyltrimoniumchloride/acrylates copolymer
+96,amp-acrylates/allyl methacrylate copolymer
+97,vinyl capropactam/vp/dimethylaminoethyl methacrylate copolymer
+98,acrylates/stearyl acrylate/ethylamine oxide methacrylate copolymer
+99,acrylates/steareth-20 methacrylate copolymer
+100,pvp/va copolymer
+101,vp/methacrylamide/vinyl imidazole copolymer
+102,vp/dimethylaminoethylmethacrylate copolymer
+103,vp/vinyl caprolactam/dmapa acrylates copolymer
+104,butyl ester of pvm/ma copolymer
+105,calcium/zinc pvm/ma copolymer (33%)
+106,calcium/zinc pvm/ma copolymer
+107,calcium/zinc pvm/ma copolymer (35%)
+108,calcium/sodium pvm/ma co-polymer
+109,calcium/sodium pvm/ma copolymer
+110,c30-45 alxyldimethylsilyl polypropylsilsesquioxane
+111,polymethylsilsesquioxane
+112,polymethylsilses-quioxane
+113,polypropylsilsesquioxane
+114,c30-45 alkyldimethylsilyl polypropylsilsesquioxane
+115,vinyl dimethicone/methicone silsesquioxane crosspolymer
+116,vinyl dimethicnone/methicone silsesquioxane crosspolymer
+117,diphenyl dimethicone/vinyl diphenyl dimethicone/silsesquioxane crosspolymer
+118,vinyl dimethicone / methicone silsesquioxane crosspolymer
+119,amodimethicone/morpholinomethyl silsesquioxane copolymer
+120,amodimethicone/morpholinomethyl silsequioxane copolymer
+121,dimethiconol/silsesquioxane copolymer
+122,c30-45 alkyldimethylsilyl popypropylsilsesquioxane
