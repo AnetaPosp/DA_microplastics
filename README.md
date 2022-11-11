@@ -19,3 +19,4 @@ microplasticID - microplastic_name assignment was constructed using microplastic
 table_generator.py file
 
 The data were visualized in PowerBI Desktop.A discussion of results is given in my PhD thesis:
+https://www.vutbr.cz/studenti/zav-prace/detail/149868
